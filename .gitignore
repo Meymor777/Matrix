@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Matrix/.vs
+/Matrix/Matix.Test/bin
+/Matrix/Matix.Test/obj
+/Matrix/Matrix/bin/Debug/net8.0
+/Matrix/Matrix/obj
+/Matrix/Matrix.BL/bin/Debug/net8.0
+/Matrix/Matrix.BL/obj
+/Matrix/Matrix.Types/bin/Debug/net8.0
+/Matrix/Matrix.Types/obj
+/Matrix/Output-Debug.txt
